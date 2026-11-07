@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 64" width="240" height="64">
+  <rect x="0" y="0" width="64" height="64" rx="14" fill="#0F766E"/>
+  <path d="M12 20h40v8a4 4 0 0 0 0 8v8H12v-8a4 4 0 0 0 0-8z" fill="#FFFFFF"/>
+  <path d="M24 25h16v4h-6v10h-4V29h-6z" fill="#0F766E"/>
+  <text x="76" y="45" font-family="Segoe UI, Roboto, Arial, sans-serif" font-size="36" font-weight="700" fill="#0F766E">Turnia</text>
+</svg>
